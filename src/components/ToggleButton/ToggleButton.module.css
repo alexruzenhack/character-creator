@@ -16,6 +16,10 @@
   margin-right: 4px;
 }
 
+.toggleButton:last-child {
+  margin-right: 22px;
+}
+
 .toggleButton[aria-pressed='true'] {
   background: hsl(0deg, 0%, 5%);
   color: white;
